@@ -1,8 +1,8 @@
 # Moondrop Dash75
 
-The Commodore 64 inspired keyboard with built in USB Host and headphone amplifier
+The 75%, Commodore 64 inspired, keyboard with integrated USB Hub and headphone DAC/Amp
 
-* Keyboard Maintainer: [moondroplab](https://github.com/moondroplab)
+* Keyboard Maintainer: [vinorodrigues](https://github.com/vinorodrigues)
 * Hardware Supported:
     * Moondrop Dash75
     * Moondrop Dash75 RGB
