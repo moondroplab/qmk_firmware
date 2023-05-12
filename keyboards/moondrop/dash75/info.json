@@ -10,8 +10,6 @@
         "extrakey": true,
         "mousekey": true,
         "nkro": false,
-        "backlight": false,
-        "rgb_matrix": false,
         "lto": true
     },
     "diode_direction": "COL2ROW",
