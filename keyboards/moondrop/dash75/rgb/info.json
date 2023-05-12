@@ -1,0 +1,9 @@
+{
+    "usb": {
+        "pid": "0x7502",
+        "device_version": "1.5.0"
+    },
+    "features": {
+        "rgblight": true
+    }
+}
